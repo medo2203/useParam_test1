@@ -1,0 +1,4 @@
+.cards-cnt{
+    display: flex;
+    flex-wrap: wrap;
+}
